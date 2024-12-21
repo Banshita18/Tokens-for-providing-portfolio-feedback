@@ -7,7 +7,7 @@ and equitable rewards for contributors.
 
 ## Contract Address
 0x662a5B2B1482a27012EBFa8E560035A9f58f8D01
-![Uploading image.png…]()
+![Uploading Screenshot.jpg…]()
 
 
 ## Project Vision
